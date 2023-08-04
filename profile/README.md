@@ -1,3 +1,7 @@
-# Working on <a href="https://aimodels.org>AI Models</a>
+<a name="readme-top"></a>
 
-An project to promote open source AI
+# <img src="https://avatars.githubusercontent.com/u/117051901?s=60&v=4" alt="Logo" width="20" height="20"> <a href="https://aimodels.org"><strong>AI Models</strong></a>
+
+<p align='center'>
+Currently working on AI Models project
+</p>
